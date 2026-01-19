@@ -17,7 +17,7 @@ This portfolio highlights my ability to build end-to-end solutions—from raw da
 
 ## 🚀 Key Projects
 
-### [CleanCode Data Engine]
+### [CleanCode Data Engine](https://portfolio-arthur-albo.vercel.app/)
 **Mathematical Gatekeeper for Raw Data**
 * **Problem:** "Dirty" data (type mismatches, mixed date formats, outliers) frequently breaks downstream models.
 * **Solution:** Built a non-destructive automation tool that enforces strict type-checking and structural cleaning. 
