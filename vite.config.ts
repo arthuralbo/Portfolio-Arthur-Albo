@@ -5,7 +5,6 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: './', // Ensures paths are relative
       server: {
         port: 3000,
         host: '0.0.0.0',
@@ -17,12 +16,7 @@ export default defineConfig(({ mode }) => {
       },
       resolve: {
         alias: {
-          '@': path.resolve(__dirname, './'),
-        }
-      },
-      build: {
-        rollupOptions: {
-          input: path.resolve(__dirname, 'index.html'),
+          '@': path.resolve(__dirname, '.'),
         }
       }
     };

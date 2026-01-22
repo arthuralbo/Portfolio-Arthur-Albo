@@ -55,7 +55,7 @@ const translations = {
     hero: {
       hi: "Hi, I'm",
       role: "Mathematics & Statistics Student",
-      desc: "Building data-driven solutions through rigorous statistical modeling. I transform complex datasets into clear, actionable intelligence across diverse industries, from urban mobility to automated engineering.",
+      desc: "Continuing to learn how to build data-driven solutions using statistical modeling. I transform complex datasets into clear, actionable intelligence across diverse industries, from urban mobility to automated engineering.",
       ctaWork: "View Work",
       ctaContact: "Get in Touch",
       highlights: [
@@ -218,7 +218,7 @@ const translations = {
     hero: {
       hi: "Salut, je m'appelle",
       role: "Étudiant en mathématiques et statistiques",
-      desc: "Je conçois des solutions fondées sur les données grâce à une modélisation statistique rigoureuse. Je transforme des jeux de données complexes en informations claires et exploitables dans des domaines variés, de la mobilité urbaine à l’ingénierie automatisée.",
+      desc: "Je continue à apprendre comment concevoir des solutions fondées sur les données grâce à une modélisation statistique rigoureuse. Je transforme des jeux de données complexes en informations claires et exploitables dans des domaines variés, de la mobilité urbaine à l’ingénierie automatisée.",
       ctaWork: "Voir les projets",
       ctaContact: "Me contacter",
       highlights: [
