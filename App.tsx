@@ -55,7 +55,7 @@ const translations = {
     hero: {
       hi: "Hi, I'm",
       role: "Mathematics & Statistics Student",
-      desc: "Continuing to learn how to build data-driven solutions using statistical modeling. I transform complex datasets into clear, actionable intelligence across diverse industries, from urban mobility to automated engineering.",
+      desc: "Continuing to learn how to build data-driven solutions using statistical modelling. I transform complex datasets into clear, actionable intelligence across diverse industries, from urban mobility to automated engineering.",
       ctaWork: "View Work",
       ctaContact: "Get in Touch",
       highlights: [
@@ -79,7 +79,7 @@ const translations = {
           company: 'Concordia University',
           date: '2026 - 2028',
           learning: 'Deepening statistical analysis and mathematical modelling to design innovative solutions for complex research problems.'
-        }
+        },
         {
           role: 'Data Scientist / Developer',
           company: 'InsightSolver',
