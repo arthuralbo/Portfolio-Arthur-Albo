@@ -60,14 +60,14 @@ const translations = {
       ctaContact: "Get in Touch",
       highlights: [
         { title: "Data Science", desc: "Turning complex data into actionable insights through statistical algorithms." },
-        { title: "Smart Planning", desc: "Optimizing urban environments through data-driven design and predictive modeling." },
+        { title: "Smart Planning", desc: "Optimizing urban environments through data-driven design and predictive modelling." },
         { title: "Geospatial Data", desc: "Mapping and analyzing information tied to specific geographic locations." },
-        { title: "Machine Learning", desc: "Forecasting infrastructure demand with statistical rigor." }
+        { title: "Machine Learning", desc: "Forecasting infrastructure demand with statistical rigour." }
       ]
     },
     about: {
       title: "About Me",
-      p1: "I’m a 4th year Math and Stats student at Concordia, finishing a specialization in Econometrics and Programming. With a background in Data Science, I’ve spent a lot of time with machine learning and predictive modeling, turning messy, real-world data into something meaningful.",
+      p1: "Graduated in Summer 2026 in Mathematics and Statistics with a specialization in Econometrics and Programming, and now starting my Master's in the same field at Concordia. With a background in Data Science, I’ve spent a lot of time with machine learning and predictive modelling, turning messy, real-world data into something meaningful.",
       p2: "I have a deep interest in how these models impact the world around us. Whether I'm building tools to clean messy datasets in spreadsheets or analyzing geospatial patterns in Smart City infrastructure, my goal is to bridge the gap between abstract equations and real-world efficiency.",
     },
     experience: {
@@ -75,10 +75,16 @@ const translations = {
       keyLearning: "Key Learning",
       items: [
         {
+          role: "Master's, Math & Statistics",
+          company: 'Concordia University',
+          date: '2026 - 2028',
+          learning: 'Deepening statistical analysis and mathematical modelling to design innovative solutions for complex research problems.'
+        }
+        {
           role: 'Data Scientist / Developer',
           company: 'InsightSolver',
           date: '2025 - Present',
-          learning: 'Helped in the creation of a data based pattern-finding solution by building interactive Dash/Streamlit dashboards.'
+          learning: 'Helped in the creation of a data-based pattern-finding solution by building interactive Dash/Streamlit dashboards.'
         },
         {
           role: 'Data Scientist (Intern)',
@@ -230,13 +236,19 @@ const translations = {
     },
     about: {
       title: "À propos de Arthur Albo",
-      p1: "Je suis étudiant en 4e année en mathématiques et statistiques à l’Université Concordia, où je termine une spécialisation en économétrie et programmation. Suite à un parcours en science des données, j’utilise l’apprentissage automatique et la modélisation prédictive, pour transformer des données réelles, souvent désordonnées, en informations exploitables.",
+      p1: "Diplômé à l'été 2026 en mathématiques et statistiques (spécialisation en économétrie et programmation), je débute maintenant ma maîtrise dans le même domaine à Concordia. Suite à un parcours en science des données, j’utilise l’apprentissage automatique et la modélisation prédictive, pour transformer des données réelles, souvent désordonnées, en informations exploitables.",
       p2: "Je m’intéresse à l’impact concret de ces modèles sur le monde réel. Qu’il s’agisse de développer des outils pour nettoyer des feuilles de calcul complexes ou d’analyser des dynamiques géospatiales dans les infrastructures de villes intelligentes, mon objectif est de faire le lien entre les équations abstraites et l’efficacité opérationnelle."
     },
     experience: {
       title: "Parcours & développement",
       keyLearning: "Apprentissages clés",
       items: [
+        {
+          role: 'Maîtrise, mathématiques et statistiques',
+          company: 'Université Concordia',
+          date: '2026 - 2028',
+          learning: "Approfondir l'analyse statistique et la modélisation mathématique pour concevoir des solutions innovantes face à des problématiques de recherche complexes."
+        },
         {
           role: 'Data Scientist / Développeur',
           company: 'InsightSolver',
@@ -250,7 +262,7 @@ const translations = {
           learning: 'Renforcement de mes compétences techniques en apprentissage automatique, visualisation de données et inférence causale, en passant de la théorie à l’application concrète.'
         },
         {
-          role: 'Baccalauréat en arts, mathématiques et statistiques',
+          role: 'Baccalauréat, mathématiques et statistiques',
           company: 'Université Concordia',
           date: '2022 - 2026',
           learning: 'Développer une base mathématique solide pour modéliser et résoudre des problèmes complexes à l’aide de l’analyse statistique.'
